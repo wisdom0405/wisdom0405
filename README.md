@@ -8,6 +8,3 @@
 wisdom0405/wisdom0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://www.marketbeat.com/scripts/click.aspx?MessageQueueID=14351&UserID=3747225&SubjectLineID=0&RedirectURL=http://Envision-energy.miltoniomusic.com/lt/amlhLmNoZW5nQGVudmlzaW9uLWVuZXJneS5jb20=
-
-https://www.gamesonly.at/mobile/choose_destination.asp?forward_desktop=yes&orig_url=https%3A%2F%2Fjfrzo.lol?r=Z3JlZ29yeS5hcnRodXJAZW52aXNpb24tZW5lcmd5LmNvbQ==
