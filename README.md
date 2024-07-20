@@ -1,4 +1,8 @@
-## Hi there 👋
+## Jeong Seul ki 🏄‍♂️ | wisdom0405
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{wisdom0405}?pet-id=23" width="1000" height="120"/>
+</a>
 
 <!--
 **wisdom0405/wisdom0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
