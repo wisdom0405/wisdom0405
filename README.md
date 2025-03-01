@@ -1,11 +1,11 @@
 ## Jeong Seul ki 🏄‍♂️ | wisdom0405
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/wisdom0405?pet-id=602507447395378128"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wisdom0405&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wisdom0405"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
