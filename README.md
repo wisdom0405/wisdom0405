@@ -39,10 +39,12 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 ------
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wisdom0405&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/wisdom0405"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wisdom0405&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/wisdom0405?pet-id=652361468295241008"
+    width="600"
+    height="300"
+  />
 </a>
+  
+  
