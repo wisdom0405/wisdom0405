@@ -33,10 +33,10 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> 
 
 ### Messaging & Streaming
-
-### Net
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> 
 
 ### Tools & Others
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 ------
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wisdom0405&utm_content=farm">
