@@ -43,7 +43,7 @@
   <img
     src="https://render.gitanimals.org/lines/wisdom0405?pet-id=652361468295241008"
     width="600"
-    height="300"
+    height="150"
   />
 </a>
   
