@@ -44,6 +44,5 @@
   src="https://render.gitanimals.org/farms/wisdom0405"
   width="600"
   height="300"
-  align="center"
 />
 </a>
