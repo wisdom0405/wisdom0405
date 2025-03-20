@@ -8,8 +8,8 @@
 |<img src="https://github.com/user-attachments/assets/ebe09565-8b5f-4f3f-afa5-854b7740c9aa" width="14px" align="absmiddle"> todak Backend |실시간 소아과 진료 예약 및 비대면 진료 서비스|2024.09 ~ 2024.11|[todak-backend](https://github.com/Todak-Padak/TodakTodak_backend)|
 | 🍾 Si-D Frontend |Designer와 Developer를 이어주는 사이드 프로젝트 플랫폼|2024.07 ~ 2024.09|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
 | 🍾 Si-D Backend |Designer와 Developer를 이어주는 사이드 프로젝트 플랫폼 |2024.07 ~ 2024.09|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
-|🏡LOWLAW Web.ver| 임대차 분쟁 해결을 돕는 법률 조언 서비스 |2023.09 ~ 2023.12|[LOWLAW Web](https://github.com/LOWLAW-TEAM/Integrate)|
-|🏡LOWLAW Streamlit.ver| 임대차 분쟁 해결을 돕는 법률 조언 서비스 |2023.03 ~ 2023.09|[LOWLAW Streamlit](https://github.com/wisdom0405/LOWLAW-AWS)|
+|🏡 LOWLAW Web.ver| 임대차 분쟁 해결을 돕는 법률 조언 서비스 |2023.09 ~ 2023.12|[LOWLAW Web](https://github.com/LOWLAW-TEAM/Integrate)|
+|🏡 LOWLAW Streamlit.ver| 임대차 분쟁 해결을 돕는 법률 조언 서비스 |2023.03 ~ 2023.09|[LOWLAW Streamlit](https://github.com/wisdom0405/LOWLAW-AWS)|
 
 
 # Skills
