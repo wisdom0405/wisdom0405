@@ -38,7 +38,7 @@
 ### Tools & Others
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 ------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisdom0405)](https://solved.ac/wisdom0405/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wisdom0405)](https://solved.ac/wisdom0405/)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wisdom0405&utm_content=line">
   <img
